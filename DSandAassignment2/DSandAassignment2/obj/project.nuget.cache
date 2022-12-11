@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDEDxM216b30R17PgnkfMQKzGtwZPEggc2Wtb0dP7zjBvB9kQdlBSIoC4YcGeE2SZHP8VvZhpGJa3O6L1z8Uxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casper\\source\\repos\\DSandAassignment2\\DSandAassignment2\\DSandAassignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
