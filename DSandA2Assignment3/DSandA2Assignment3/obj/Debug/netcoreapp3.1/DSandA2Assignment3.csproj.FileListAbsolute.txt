@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\bin\Debug\netcoreapp3.1\DSandA2Assignment3.exe
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\bin\Debug\netcoreapp3.1\DSandA2Assignment3.deps.json
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\bin\Debug\netcoreapp3.1\DSandA2Assignment3.runtimeconfig.json
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\bin\Debug\netcoreapp3.1\DSandA2Assignment3.runtimeconfig.dev.json
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\bin\Debug\netcoreapp3.1\DSandA2Assignment3.dll
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\bin\Debug\netcoreapp3.1\DSandA2Assignment3.pdb
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\obj\Debug\netcoreapp3.1\DSandA2Assignment3.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\obj\Debug\netcoreapp3.1\DSandA2Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\obj\Debug\netcoreapp3.1\DSandA2Assignment3.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\obj\Debug\netcoreapp3.1\DSandA2Assignment3.AssemblyInfo.cs
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\obj\Debug\netcoreapp3.1\DSandA2Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\obj\Debug\netcoreapp3.1\DSandA2Assignment3.dll
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\obj\Debug\netcoreapp3.1\DSandA2Assignment3.pdb
+C:\Users\casper\source\repos\DSandA2Assignment3\DSandA2Assignment3\obj\Debug\netcoreapp3.1\DSandA2Assignment3.genruntimeconfig.cache
